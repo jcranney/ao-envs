@@ -3,7 +3,7 @@ A collection of Adaptive Optics simulations environments, targeted at specific d
 
 The goal of this collection is to enable rapid development of solutions to difficult problems in the world of AO. Gymnasium Environments allow a standardised API for interaction with these problems, enabling both classical control/estimation solutions, as well as AI-based ones.
 
-If you have any feedback/suggestions/questions, please open an [issue](https://github.com/jcranney/ao-envs/issues).
+If you have any feedback/suggestions/questions, or if there is an environment you would love to see simulated, please open an [issue](https://github.com/jcranney/ao-envs/issues).
 
 ## Getting Started
  1) choose an environment from the [list below](#environment)
